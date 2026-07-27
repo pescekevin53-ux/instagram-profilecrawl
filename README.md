@@ -1,4 +1,4 @@
-<img src="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/05/11170038/Instagram_Logo-1002x1003.jpg" width="200" align="right">
+git clone https://github.com/miriiamgalantee/instagram-profilecrawl.git<img src="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2016/05/11170038/Instagram_Logo-1002x1003.jpg" width="200" align="right">
 
 # Instagram-Profilecrawl
 
